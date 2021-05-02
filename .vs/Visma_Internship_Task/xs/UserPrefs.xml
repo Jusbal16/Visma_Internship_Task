@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{A539F856-C8BB-434C-B8C2-1B7899EC6CC1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="classes/Manager.cs">
+    <Files>
+      <File FileName="Program.cs" Line="7" Column="32" />
+      <File FileName="classes/Library.cs" Line="21" Column="10" />
+      <File FileName="classes/Manager.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Visma_Internship_Task" expanded="True">
+            <Node name="Visma_Internship_Task" expanded="True">
+              <Node name="classes" expanded="True">
+                <Node name="Manager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Visma__Internship__Task PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
