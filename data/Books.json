@@ -1,0 +1,50 @@
+[
+  {
+    "book": {
+      "name": "Simo nuotykiai",
+      "author": "Simonas Daukantas",
+      "category": "Drama",
+      "language": "Anglų",
+      "publicationDate": "2014",
+      "ISBN": "xx2"
+    },
+    "count": 10,
+    "isAvailable": true
+  },
+  {
+    "book": {
+      "name": "Kaltukas",
+      "author": "Simonas Daukantas",
+      "category": "Komedija",
+      "language": "Lietuvių",
+      "publicationDate": "2011",
+      "ISBN": "cx3"
+    },
+    "count": 24,
+    "isAvailable": true
+  },
+  {
+    "book": {
+      "name": "Duokim garo",
+      "author": "Simonas Daukantas",
+      "category": "Komedija",
+      "language": "Lietuvių",
+      "publicationDate": "1999",
+      "ISBN": "ik2"
+    },
+    "count": 30,
+    "isAvailable": true
+  },
+  {
+    "book": {
+      "name": "Vežimas",
+      "author": "Mėnulio šuo",
+      "category": "Poezija",
+      "language": "Anglų",
+      "publicationDate": "1998",
+      "ISBN": "ixsd"
+    },
+    "count": 14,
+    "isAvailable": true
+  }
+]

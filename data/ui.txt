@@ -1,0 +1,27 @@
+Welcome to the Visma library.
+
+You can add, take, return, list, and delete books
+
+Rules for writing commands:
+
+1. If specific name has more than 1 word us "", example: 
+add "Simple book name" "Morgan Freeman" drama English 2018 xc3332 20
+Take "Simple book name" "Morgan Freeman" Jim 55
+Return "Simple book name" "Morgan Freeman" Jim
+
+2. Using the list command the first argument requires "Filter", for example
+List author "Morgan Freeman" // return all Morgan Freeman books
+List Publication-Date 2018 // return all books published on 2018
+
+When writing commands please don't try anything smart :) just follow the rules
+
+commands:
+
+add Name Author Category Language Publication-Date ISBN CopyNumber
+take Name Author Who Days
+return Name Author Who
+list Filter Text
+delete Name Author
+show-ui // shows UI text
+
+To exit program type: end
