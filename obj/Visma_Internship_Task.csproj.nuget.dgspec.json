@@ -14,7 +14,7 @@
         "outputPath": "/Users/justinasbaltrusaitis/Desktop/work stuff/Visma/Visma_Task/Visma_Internship_Task/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/justinasbaltrusaitis/.config/NuGet/NuGet.Config"
+          "/Users/justinasbaltrusaitis/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
